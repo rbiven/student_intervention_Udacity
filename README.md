@@ -63,4 +63,4 @@ The dataset used in this project is included as `student-data.csv`. This dataset
 - `passed` : did the student pass the final exam (binary: yes or no)
 
 # From Rbiven
-The above is from the Udacity Machine Learning nanodegree course.  I am putting my results on Github for peer review.  If you are interesting in my work, I highly recommend the Udacity Nanodegree course.
+The above is the documentation from for the Udacity Machine Learning nanodegree course.  I am putting my results on Github for peer review.  If you are interesting in my work, please let me know.  Also, if you are unfamiliar with machine learning, I highly recommend the Udacity Nanodegree course.
